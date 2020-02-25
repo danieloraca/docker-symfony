@@ -1,6 +1,6 @@
-index:
-    path: /
-    controller: App\Controller\DefaultController::indexAction
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::indexAction
 
 app_api_bundle:
     resource: '@EngineApiBundle/Resources/config/'
